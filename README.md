@@ -36,7 +36,7 @@ This challenge has been published on the [Frontend Mentor](https://www.frontendm
 ### Built with
 
 - [styled-components](https://styled-components.com)
-- [React](https://reactjs.org/) 
+- [React js](https://reactjs.org/) 
 
 
 
