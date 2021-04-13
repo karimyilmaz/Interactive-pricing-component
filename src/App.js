@@ -38,6 +38,7 @@ const Head = styled.div`
     left: 50%;
     transform: translateX(-50%);
     bottom: 20%;
+    z-index: -1;
   }
   p{
     margin: 0;
