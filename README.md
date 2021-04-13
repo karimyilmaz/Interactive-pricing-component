@@ -25,7 +25,7 @@ This challenge has been published on the [Frontend Mentor](https://www.frontendm
 
 ### Screenshots
 
-*Desktop*
+#### Desktop
 ![image_desktop](https://user-images.githubusercontent.com/20302651/114597559-96de1c00-9c99-11eb-9e57-82e035e8b9f1.png)
 ![image_desktop_discount](https://user-images.githubusercontent.com/20302651/114597622-a9f0ec00-9c99-11eb-9d23-5b35b48d3bf2.png)
 
