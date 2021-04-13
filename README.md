@@ -7,7 +7,7 @@
 - [Built with](#built-with)
 
 
-### Overvieww
+### Overview
 
 The project is an interactive pricing component. It runs responsive on different desktop sizes starting from 1600px. regarding mobile
 It's fully responsive on 375px (Iphone 6/7/8). There are 5 different page view ranges with there corresponding monthly prices.
@@ -26,8 +26,8 @@ This challenge has been published on the [Frontend Mentor](https://www.frontendm
 ### Screenshots
 
 *Desktop*
-![image](https://user-images.githubusercontent.com/20302651/114588470-642f2600-9c8f-11eb-8aa2-1dd60bb0dbaf.png)
-![image_with_discount](https://user-images.githubusercontent.com/20302651/114589164-16ff8400-9c90-11eb-9562-65acb0975e67.png)
+![image_desktop](https://user-images.githubusercontent.com/20302651/114597559-96de1c00-9c99-11eb-9e57-82e035e8b9f1.png)
+![image_desktop_discount](https://user-images.githubusercontent.com/20302651/114597622-a9f0ec00-9c99-11eb-9d23-5b35b48d3bf2.png)
 
 *Mobile*
 ![image_mobile](https://user-images.githubusercontent.com/20302651/114589959-da805800-9c90-11eb-8c7d-72d7dcf91821.png)
