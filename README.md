@@ -7,7 +7,7 @@
 - [Built with](#built-with)
 
 
-### Overview
+### Overvieww
 
 The project is an interactive pricing component. It runs responsive on different desktop sizes starting from 1600px. regarding mobile
 It's fully responsive on 375px (Iphone 6/7/8). There are 5 different page view ranges with there corresponding monthly prices.
